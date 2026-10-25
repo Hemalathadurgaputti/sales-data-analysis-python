@@ -61,12 +61,3 @@ The dataset contains 2,823 records and 25 columns, including order dates, sales 
 ## Conclusion
 This project demonstrates how Python can be used to inspect, analyze, and visualize sales data. The analysis identifies differences in product-line performance and explores trends across time, markets, and customers.
 
-## How to Run
-1. Download the notebook from this repository.
-2. Open Google Colab: https://colab.research.google.com/
-3. Upload the .ipynb notebook.
-4. Upload the dataset file when prompted by the notebook.
-5. Run the cells in order.
-
-## Author
-Aspiring Data Analyst | Python | Pandas | SQL | Tableau
